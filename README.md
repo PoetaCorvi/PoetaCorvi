@@ -1,4 +1,4 @@
-+ Leo @PoetaCorvi
+## Leo @PoetaCorvi
 
 + On GitHub to organize information about my Minecraft Modpack, that should hopefully function as a wiki once I release it.
 
