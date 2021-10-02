@@ -1,6 +1,6 @@
 ## Leo @PoetaCorvi
 
-+ On GitHub to organize information about my Minecraft Modpack, that should hopefully function as a wiki once I release it.
++ On GitHub to organize information about my Minecraft Mods and Modpacks
 
 + Currently I've not made any mods of my own, however I do know bits and pieces of navigating the scene and would like to start a project someday. My modpack Animal Overload
 was made because of my interest in animal biology, especially less popular areas such as realistic arthropods, fish, reptiles, and similar. 
